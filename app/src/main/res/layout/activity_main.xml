@@ -78,10 +78,11 @@
 
         # Button to navigate to the About the Film screen
     # TODO: Add button functionality to navigate to About screen
+
     <Button
         android:id="@+id/about_film_button"
         android:layout_width="0dp"
-        android:layout_height="60dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:text="@string/button_about_the_film"
@@ -93,10 +94,11 @@
 
         # Button to navigate to the Where to Watch screen
     # TODO: Add button functionality to navigate to Where to Watch screen
+
     <Button
         android:id="@+id/where_button"
         android:layout_width="0dp"
-        android:layout_height="60dp"
+        android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"

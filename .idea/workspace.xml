@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69dec622-1df7-4264-878d-697fecd0ccef" name="Default Changelist" comment="Initial commit for ghostwriter app.&#10;This commit contains app layout only, and is lacking functionality." />
+    <list default="true" id="69dec622-1df7-4264-878d-697fecd0ccef" name="Default Changelist" comment="Initial commit for ghostwriter app.&#10;This commit contains app layout only, and is lacking functionality.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636925864791</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Contains app layout, but is missing functionality.">
+      <created>1636927639712</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636927639712</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Contains app layout, but is missing functionality.">
+      <created>1636927665334</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636927665334</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,9 +174,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit for ghostwriter app.&#10;This commit contains app layout only, and is lacking functionality." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit for ghostwriter app.&#10;This commit contains app layout only, and is lacking functionality." />
+    <MESSAGE value="Contains app layout, but is missing functionality." />
+    <option name="LAST_COMMIT_MESSAGE" value="Contains app layout, but is missing functionality." />
   </component>
 </project>
