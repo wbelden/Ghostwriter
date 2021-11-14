@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_grey">
+
+
+        # Title image
+    <ImageView
+        android:id="@+id/image_title_bio"
+        android:layout_width="0dp"
+        android:layout_height="225dp"
+        android:scaleType="fitStart"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/app_mockup___main_screen_image_title"></ImageView>
+
+
+        # Button to return to the cast list screen
+    # TODO: Add button functionality to return to cast list screen
+    <Button
+        android:id="@+id/button_cast_list"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/button_cast_list"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/button_main_menu_bio"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_member_bio" />
+
+
+        # Button to return to the main menu
+    # TODO: Add button functionality to return to main menu
+    <Button
+        android:id="@+id/button_main_menu_bio"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="32dp"
+        android:text="@string/button_main_menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/button_cast_list"
+        app:layout_constraintTop_toBottomOf="@+id/text_member_bio" />
+
+
+        # Text containing the crew member's name,
+        # the crew member's role, and
+        # the crew member's bio
+    <TextView
+        android:id="@+id/text_crew_member"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/special_elite"
+        android:text="@string/text_crew_member"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/light_grey"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_title_bio" />
+
+    <TextView
+        android:id="@+id/text_member_role"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/special_elite"
+        android:text="@string/text_member_role"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/light_grey"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_crew_member" />
+
+    <TextView
+        android:id="@+id/text_member_bio"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="80dp"
+        android:fontFamily="@font/special_elite"
+        android:text="@string/text_member_bio"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/light_grey"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_member_role" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,95 @@
+{
+	"Actors": [
+		{
+			"name": "Alicia Mandela",
+			"image": "Alicia.jpg",
+			"age": 0,
+			"bio": "",
+			"team": "Digital Media"
+		},
+		{
+			"name": "Christian Stoner",
+			"image": "Christian.jpg",
+			"age": 0,
+			"bio": "",
+			"team": "Digital Media"
+		},
+		{
+			"name": "Ethan Sutter",
+			"image": "Ethan.jpg",
+			"age": 0,
+			"bio": "",
+			"team": "Digital Media"
+		},
+		{
+			"name": "Brady Parks",
+			"image": "Brady.jpg",
+			"age": 0,
+			"bio": "",
+			"team": "Digital Media"
+		},
+		{
+			"name": "Amiah Oliver",
+			"image": "Amiah.jpg",
+			"age": 0,
+			"bio": "",
+			"team": "Digital Media"
+		},
+		{
+			"name": "Matthew Hansen",
+			"image": "Matthew.jpg",
+			"age": 0,
+			"bio": "",
+			"team": "Digital Media"
+		},
+		{
+			"name": "Kalonji Beacham",
+			"image": "Kalonji.jpg",
+			"age": 0,
+			"bio": "",
+			"team": "Digital Media"
+		},
+		{
+			"name": "Aaron Wright",
+			"image": "Aaron.jpg",
+			"age": 0,
+			"bio": "",
+			"team": "Digital Media"
+		},
+		{
+			"name": "Angel Jones",
+			"image": "Angel.jpg",
+			"age": 0,
+			"bio": "",
+			"team": "Digital Media"
+		},
+		{
+			"name": "Chrystyan Ross",
+			"image": "Chrystyan.jpg",
+			"age": 0,
+			"bio": "",
+			"team": "Web Development"
+		},
+		{
+			"name": "Megan Brant",
+			"image": "Megan.jpg",
+			"age": 0,
+			"bio": "",
+			"team": "Web Development"
+		},
+		{
+			"name": "Stephen Jehner",
+			"image": "Stephen.jpg",
+			"age": 0,
+			"bio": "",
+			"team": "Software Development"
+		},
+		{
+			"name": "Wade Belden",
+			"image": "Wade.jpg",
+			"age": 28,
+			"bio": "Software Development student at Butler. No acting experience.",
+			"team": "Software Development"
+		}
+	]
+}

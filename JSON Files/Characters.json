@@ -1,0 +1,81 @@
+{
+	"Characters" : [
+		{
+			"name" : "Nicky",
+			"actor" : "Alicia Mandella",
+			"image" : "Nicky.jpg",
+			"backstory" : "Nicky was a successful poet in the past. She had a gift appealing to the masses with relatable works, but has since lost this passion after failing. Nicky is now timid and desperate for success.",
+			"role" : "Protagonist"
+		},
+		{
+			"name" : "Desi",
+			"actor" : "Angel Jones",
+			"image" : "Ghost.jpg",
+			"backstory" : "A young woman who died in a tragic & unexpected way. She is greaving her own death and cannot move on.",
+			"role" : "Ghost"
+		},
+		{
+			"name" : "Mr. Winters",
+			"actor" : "Wade Belden",
+			"image" : "Winters.jpg",
+			"backstory" : "Mr. Winters is a publisher. He is ruthless and demanding, putting pressure on his writers to get their job done.",
+			"role" : "Publisher"
+		},
+		{
+			"name" : "Mark",
+			"actor" : "",
+			"image" : "Mark.jpg",
+			"backstory" : "Mark is an outgoing person that likes to make his opinions known.",
+			"role" : "Colleague"
+		},
+		{
+			"name" : "Jamie",
+			"actor" : "Kalonji Beacham",
+			"image" : "Jamie.jpg",
+			"backstory" : "Jamie is soft spoken and rarely confrontational.",
+			"role" : "Friend"
+		},
+		{
+			"name" : "Alex",
+			"actor" : "Brady Parks",
+			"image" : "Alex.jpg",
+			"backstory" : "Alex is somewhat mysterious but an overall friendly person.",
+			"role" : "Friend"
+		},
+		{
+			"name" : "Kris",
+			"actor" : "Matthew Hansen",
+			"image" : "Kris.jpg",
+			"backstory" : "Kris is a very optomistic person and is constantly encouraging others.",
+			"role" : "Friend"
+		},
+		{
+			"name" : "Micah",
+			"actor" : "Aaron Wright",
+			"image" : "Micah.jpg",
+			"backstory" : "Micah is very laid back and has a \"go with the flow\" attitude.",
+			"role" : "Friend"
+		},
+		{
+			"name" : "Brock",
+			"actor" : "Chrystyan Ross",
+			"image" : "Brock.jpg",
+			"backstory" : "Brock has a wild personality, creating excitement whereever he goes.",
+			"role" : "Friend"
+		},
+		{
+			"name" : "Photographer",
+			"actor" : "Ethan Sutter",
+			"image" : "Photographer.jpg",
+			"backstory" : "A freelance photographer, who sells photos to media outlets.",
+			"role" : "Photographer"
+		},
+		{
+			"name" : "Reporter",
+			"actor" : "Amiah Oliver",
+			"image" : "Reporter.jpg",
+			"backstory" : "A reporter for the news.",
+			"role" : "Reporter"
+		}
+	]
+}

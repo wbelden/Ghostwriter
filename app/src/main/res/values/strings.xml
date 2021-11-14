@@ -1,0 +1,49 @@
+<resources>
+    <string name="button_main_menu">Main Menu</string>
+
+        # activity_main strings
+    <string name="app_name">Ghostwriter</string>
+    <string name="button_about_the_film">About the Film</string>
+    <string name="button_cast_and_crew">Cast and Crew</string>
+    <string name="button_where_to_watch">Where to Watch</string>
+
+        # activity_cast_list strings
+    # TODO: parse Actors.json to set button_... using a for-each loop
+    <string name="text_cast_and_crew">Cast and Crew</string>
+    <string name="button_alicia">Alicia Mandela\nNicky</string>
+    <string name="button_wade">Wade Belden\nMr. Winters</string>
+    <string name="button_angel">Angel Jones\nDesi</string>
+    <string name="button_na">\nMark</string>
+    <string name="button_kalonji">Kalonji Beacham\nJamie</string>
+    <string name="button_brady">Brady Parks\nAlex</string>
+    <string name="button_matthew">Matthew Hansen\nKris</string>
+    <string name="button_aaron">Aaron Wright\nMicah</string>
+    <string name="button_chrystyan">Chrystyan Ross\nBrock</string>
+    <string name="button_ethan">Ethan Sutter\nPhotographer</string>
+    <string name="button_amiah">Amiah Oliver\nReporter</string>
+    <string name="button_cast_list">Cast List</string>
+
+        # activity_cast_bio strings
+    #TODO:  when activity_cast_list -> button_... is pressed
+    #       pass crew member's name as parameter and set to text_crew_member
+    #       pass crew member's role as parameter and set to text_member_role
+    #       pass crew member's bio as parameter and set to text_member_bio
+    <string name="text_crew_member">Crew Member</string>
+    <string name="text_member_role">Member Role</string>
+    <string name="text_member_bio">Member Bio. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Placerat Vestibulum lectus mauris ultrices eros in. Ac turpis egestas sed tempus urna et pharetra pharetra massa. Tortor condimentum lacinia quis vel. Mass id neque aliquam vestibulum morbi.</string>
+
+
+        # activity_about_film strings
+    <string name="text_about_film">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Placerat Vestibulum lectus mauris ultrices eros in. Ac turpis egestas sed tempus urna et pharetra pharetra massa. Tortor condimentum lacinia quis vel. Mass id neque aliquam vestibulum morbi. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Placerat Vestibulum lectus mauris ultrices eros in. Ac turpis egestas sed tempus urna et pharetra pharetra massa. Tortor condimentum lacinia quis vel. Mass id neque aliquam vestibulum morbi.</string>
+
+        # activity_where_to_watch strings
+    <string name="text_where_to_watch">Where to Watch</string>
+    <string name="text_location_1">Location 1</string>
+    <string name="text_location_1_date_time">12/01/2021 8:00 AM - 9:00 AM</string>
+    <string name="text_location_1_info">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Placerat Vestibulum lectus mauris ultrices eros in.</string>
+    <string name="text_location_2">Location 2</string>
+    <string name="text_location_2_date_time">12/01/2021 5:00 PM - 6:00 PM</string>
+    <string name="text_location_2_info">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Placerat Vestibulum lectus mauris ultrices eros in.</string>
+
+
+</resources>
